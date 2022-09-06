@@ -1,19 +1,22 @@
 body{
     margin:0px;
     padding:0px;
-    background: #E5E5E5 ;
+    /*background: #E5E5E5 ;*/
+    background-image: url("https://wallpaperaccess.com/full/322464.jpg");
 }
 .container{
     margin: auto;
     width:960px;
     height: 650px;
     padding: 5px;
-    background-color: #E5E5E5;
+   /* background-color: #E5E5E5;*/
 }
 .logo{
     width: 100%;
     float: left;
-    background: #E5E5E5;
+    background: #473f94;
+    opacity: 50%;
+
 }
 .left{
     float: left;
